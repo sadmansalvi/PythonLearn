@@ -4,7 +4,7 @@ print(10 // 3) #Integer return
 
 print(10 % 3) #mod
 
-print(10 ** 3)
+print(10 ** 3) #333
 
 x = 10
 
